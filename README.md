@@ -1,2 +1,14 @@
-# currency_converter
-This JavaScript code converts an entered amount between two selected currencies using real-time rates from the ExchangeRate API. It validates input, fetches live data, calculates the converted value, and displays the result instantly.
+#  Currency Converter – Real-Time Exchange Rates
+
+A clean and responsive web app that converts currencies using live exchange rates (ExchangeRate API).
+
+##  Key Features
+- Convert between currencies with live rates
+- Input validation and error messages
+- Lightweight UI, works in any browser
+
+##  Setup
+1. Clone repo
+2. Open `index.html` in your browser
+
+
